@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joe Cao</h1>
-<hr>
 <h3 align="center">A Passionate Computer Scientist from Vietnam  </h3>
 <h3 align="center">💻 | Specializing in AI 🤖 & Machine Learning 🧠</h3>
 <h3 align="center">🌟 Always learning | 🔬 Research-driven | 🚀 Tech-forward</h3>
