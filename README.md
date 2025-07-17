@@ -6,7 +6,10 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/quang-cao-minh-2670a5294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quang-cao-minh-2670a5294/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/quang-cao-minh-2670a5294/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+</a>
+
 <a href="https://www.facebook.com/kaominkang" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kaominkang" height="30" width="40" />
 </a>
